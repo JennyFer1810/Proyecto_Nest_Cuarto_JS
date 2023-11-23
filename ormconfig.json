@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "jennyfer18",
+    "database": "proyectojs",
+    "entities": [
+        "dist/**/*.entity{.ts,.js}"
+    ],
+    "synchronize": true
+}
