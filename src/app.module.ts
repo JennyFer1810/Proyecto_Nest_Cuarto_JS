@@ -14,7 +14,7 @@ import { Tarea } from './tareas/entities/tarea.entity';
           port: 5432,
           username:'postgres',
           password: 'jennyfer18',
-          database:'proyectojs',
+          database:'postgres',
           autoLoadEntities: true,
           synchronize: true,
           dropSchema: true,
